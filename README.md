@@ -6,7 +6,7 @@ Du ska i denna inlämningsuppgift skriva pseudokod för nedanstående problem. O
 
 Det finns två problem, ett för **G** och ett för **VG**. För att få **VG** ska du göra **både** G och VG-nivån. Du får alltså inte VG för att bara skriva pseudokod för VG-nivån.
 
-All "kodning" skall göras inom anvisade block i filen script.js.
+All "kodning" skall göras inom anvisade block i filen script.js. Där finns även förslag på startkod. Denna är frivillig att använda, och vill man istället skriva helt egen pseudokod från "scratch" så är detta tillåtet.
 
 ## Inlämning
 
@@ -33,9 +33,9 @@ Lewis Carroll är förmodligen mest känd som författaren bakom Alice i underla
 
 > “Take some more tea,” the March Hare said to Alice, very earnestly.
 
-> “I’ve had nothing yet,” Alice replied in an offended tone: “so I ca’n’t take more.” 
+> “I’ve had nothing yet,” Alice replied in an offended tone: “so I can’t take more.” 
 
-> “You mean you ca’n’t take less,” said the Hatter: “It’s very easy to take more than nothing.”
+> “You mean you can’t take less,” said the Hatter: “It’s very easy to take more than nothing.”
 
 Han tyckte även om att skapa olika typer av pussel både rena logikpussel men pussel som leker med orden.
 Ett av hans mesta kända pussel heter *Doublets* som du kommer få göra i denna övning.
@@ -74,6 +74,9 @@ EYE (startord)
 LID (Slutord)
 
 Därefter går du över till att skriva pseudokod för pusslet.
-=======
 
->>>>>>> 7947bf51b0bea9a400dac27791b9467bbfa1e59f
+#### Tänk på!
+
+Din pseudokod måste innefatta kontroller som kontrollerar användarens input. Användaren får inte:
+* Ange ett ord som inte inkluderas i varaibeln ordbok.
+* Ändra fler eller färre bokstäver än 1 per runda.

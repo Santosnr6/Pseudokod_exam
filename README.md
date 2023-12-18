@@ -1,5 +1,6 @@
 # Individuell inlämningsuppgift: Pseudokod
 
+<<<<<<< HEAD
 ## Instruktioner
 
 Du ska i denna inlämningsuppgift skriva pseudokod för nedanstående problem. Om du vill kan du använda dig av de keywords som finns i detta [cheat sheet](https://gist.github.com/zocom-christoffer-wallenberg/dbb443c26407cfec308f9578ccf9845a).
@@ -74,3 +75,6 @@ EYE (startord)
 LID (Slutord)
 
 Därefter går du över till att skriva pseudokod för pusslet.
+=======
+
+>>>>>>> 7947bf51b0bea9a400dac27791b9467bbfa1e59f
